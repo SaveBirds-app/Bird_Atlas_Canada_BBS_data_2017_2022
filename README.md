@@ -6,7 +6,7 @@ The North American Bird Atlas presented here is the culmination of a comprehensi
 | :---              | :---                                                             |
 | Speacies          | North American Bird Species                                      | 
 | Geographic Area   | Canada                                                           | 
-| Data Source	    | Breeding Bird Survey (BBS) data                                  |
+| Data Source	      | Breeding Bird Survey (BBS) data                                  |
 | Year interval     | 2017-2022                                                        | 
 | Data Extraction   | Extracted by SaveBirds.app                                       |
 | Atlas Generation  | Generated using Bird Atlas Generator, a service of SaveBirds.app |
